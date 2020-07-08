@@ -27,7 +27,5 @@ pdf.write(8, txt=txt1)
  #line+=1
 
 pdf.output('test1.pdf', 'F')
-#MyTxt.write(txt)
-#MyTxt.close()
 
 
